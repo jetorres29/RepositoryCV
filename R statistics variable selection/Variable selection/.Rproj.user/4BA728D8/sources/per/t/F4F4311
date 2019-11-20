@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574217314043.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1505672352",
+    "id" : "F4F4311",
+    "lastKnownWriteTime" : 1574217300,
+    "last_content_update" : 1574217300,
+    "path" : "C:/Users/jetor/Documents/PROYECTO/RepositoryCV/R statistics variable selection/Variable selection/counts.R",
+    "project_path" : "counts.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
